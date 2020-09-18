@@ -1,0 +1,16 @@
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\bin\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.deps.json
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\bin\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.runtimeconfig.json
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\bin\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\bin\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.dll
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\bin\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.pdb
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\bin\Debug\netcoreapp2.1\ML.AnomaliesML.Model.dll
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\bin\Debug\netcoreapp2.1\ML.AnomaliesML.Model.pdb
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\obj\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\obj\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\obj\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.AssemblyInfo.cs
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\obj\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\obj\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.csproj.CopyComplete
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\obj\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.dll
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\obj\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.pdb
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.ConsoleApp\obj\Debug\netcoreapp2.1\ML.AnomaliesML.ConsoleApp.genruntimeconfig.cache

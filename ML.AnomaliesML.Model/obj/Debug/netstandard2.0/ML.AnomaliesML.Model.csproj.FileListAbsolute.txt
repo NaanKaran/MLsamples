@@ -1,0 +1,10 @@
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\bin\Debug\netstandard2.0\ML.AnomaliesML.Model.deps.json
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\bin\Debug\netstandard2.0\ML.AnomaliesML.Model.dll
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\bin\Debug\netstandard2.0\ML.AnomaliesML.Model.pdb
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\obj\Debug\netstandard2.0\ML.AnomaliesML.Model.csprojAssemblyReference.cache
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\obj\Debug\netstandard2.0\ML.AnomaliesML.Model.AssemblyInfoInputs.cache
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\obj\Debug\netstandard2.0\ML.AnomaliesML.Model.AssemblyInfo.cs
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\obj\Debug\netstandard2.0\ML.AnomaliesML.Model.csproj.CoreCompileInputs.cache
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\obj\Debug\netstandard2.0\ML.AnomaliesML.Model.dll
+C:\Users\karunakaran\source\repos\ML.Anomalies\ML.AnomaliesML.Model\obj\Debug\netstandard2.0\ML.AnomaliesML.Model.pdb
